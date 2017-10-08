@@ -1,13 +1,12 @@
 {
-  "name": "zazu-template",
+  "name": "zazu-dash",
   "version": "1.0.0",
-  "description": "Zazu Template for starting your own plugin.",
-  "main": "zazu.js",
+  "description": "Zazu plugin that adds Dash integration.",
   "scripts": {
     "lint": "eslint .",
     "test": "mocha ./test"
   },
-  "license": "Unlicense",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^3.13.0",
