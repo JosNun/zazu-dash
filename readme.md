@@ -1,4 +1,4 @@
-## Zazu Dash
+## Zazu-Dash
 
 Search Dash directly from Zazu!
 
