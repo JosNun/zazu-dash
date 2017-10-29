@@ -1,9 +1,9 @@
 ## Zazu-Dash
 
-Search Dash directly from Zazu!
+Search Dash (or Zeal if you are on Windows/Linux) directly from Zazu!
 
 ### Usage
-Enter "Dash" followed by your search. Results open in a Dash window.
+Enter "Dash" followed by your search. Results open in a Dash (or Zeal) window.
 
 To search a specific language, place the language followed by a colon (following space optional) before your query. 
 
